@@ -32,5 +32,9 @@ Para este ecommerce voy a usar la fuente [Rubik](https://fonts.google.com/specim
 
 ![MangaExpress](https://user-images.githubusercontent.com/108543460/207463936-9810cced-5817-45ac-977d-14cd5a21e31f.png)
 
+## Alternativa de Logo
+
+![f2c429c8-ebdc-4c89-a0dd-a9880d05fc69](https://user-images.githubusercontent.com/108543460/211677842-bf4c4216-74c1-4395-b2d8-ce99d3f686e7.jpg)
+
 
 
